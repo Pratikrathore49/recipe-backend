@@ -1,0 +1,13 @@
+# dependencies;
+node_modules
+
+# environment
+.env
+
+# uploads
+uploads
+
+# other folders
+dist
+build
+test
